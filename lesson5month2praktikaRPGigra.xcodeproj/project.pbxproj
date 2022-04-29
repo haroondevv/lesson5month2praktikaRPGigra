@@ -8,6 +8,12 @@
 
 /* Begin PBXBuildFile section */
 		94BD7DFF28184284003E2247 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BD7DFE28184284003E2247 /* main.swift */; };
+		94BD7E0628184297003E2247 /* Hero.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BD7E0528184297003E2247 /* Hero.swift */; };
+		94BD7E08281843B7003E2247 /* Boss.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BD7E07281843B7003E2247 /* Boss.swift */; };
+		94BD7E0A281843E0003E2247 /* Wizard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BD7E09281843E0003E2247 /* Wizard.swift */; };
+		94BD7E0C2818440A003E2247 /* Archer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BD7E0B2818440A003E2247 /* Archer.swift */; };
+		94BD7E0E28184424003E2247 /* Warrior.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BD7E0D28184424003E2247 /* Warrior.swift */; };
+		94BD7E10281844A9003E2247 /* Application.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BD7E0F281844A9003E2247 /* Application.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +31,12 @@
 /* Begin PBXFileReference section */
 		94BD7DFB28184284003E2247 /* lesson5month2praktikaRPGigra */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = lesson5month2praktikaRPGigra; sourceTree = BUILT_PRODUCTS_DIR; };
 		94BD7DFE28184284003E2247 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		94BD7E0528184297003E2247 /* Hero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hero.swift; sourceTree = "<group>"; };
+		94BD7E07281843B7003E2247 /* Boss.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Boss.swift; sourceTree = "<group>"; };
+		94BD7E09281843E0003E2247 /* Wizard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Wizard.swift; sourceTree = "<group>"; };
+		94BD7E0B2818440A003E2247 /* Archer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Archer.swift; sourceTree = "<group>"; };
+		94BD7E0D28184424003E2247 /* Warrior.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Warrior.swift; sourceTree = "<group>"; };
+		94BD7E0F281844A9003E2247 /* Application.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Application.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +70,12 @@
 			isa = PBXGroup;
 			children = (
 				94BD7DFE28184284003E2247 /* main.swift */,
+				94BD7E0528184297003E2247 /* Hero.swift */,
+				94BD7E07281843B7003E2247 /* Boss.swift */,
+				94BD7E09281843E0003E2247 /* Wizard.swift */,
+				94BD7E0B2818440A003E2247 /* Archer.swift */,
+				94BD7E0D28184424003E2247 /* Warrior.swift */,
+				94BD7E0F281844A9003E2247 /* Application.swift */,
 			);
 			path = lesson5month2praktikaRPGigra;
 			sourceTree = "<group>";
@@ -120,7 +138,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				94BD7E0E28184424003E2247 /* Warrior.swift in Sources */,
+				94BD7E10281844A9003E2247 /* Application.swift in Sources */,
+				94BD7E0A281843E0003E2247 /* Wizard.swift in Sources */,
 				94BD7DFF28184284003E2247 /* main.swift in Sources */,
+				94BD7E0628184297003E2247 /* Hero.swift in Sources */,
+				94BD7E08281843B7003E2247 /* Boss.swift in Sources */,
+				94BD7E0C2818440A003E2247 /* Archer.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
